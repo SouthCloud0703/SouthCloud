@@ -10,6 +10,7 @@ https://x.com/yoakesol
 https://x.com/windfall_verse
 
 ・Superteam Japan member
+https://x.com/SouthCloud0703
 
 ## Validator Information
 Commission	0%
