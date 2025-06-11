@@ -258,6 +258,7 @@ section {
 
 .operator-item:last-child {
     border-bottom: none;
+    justify-content: space-between;
 }
 
 .operator-item span {
@@ -359,6 +360,7 @@ section {
     .operator-item:last-child {
         flex-direction: column;
         justify-content: flex-start;
+        align-items: center;
     }
     
     .philosophy-text {
